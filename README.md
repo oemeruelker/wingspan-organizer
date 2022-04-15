@@ -10,7 +10,9 @@ the box of the basegame is always nice.
 
 This organizer will help you to put everything from the Basegame of wingspan and its first two expansions (European & Oceania) into one box. 
 Container have lids which are held together with **5x1mm magnets**. You can just glue the magnets with cyanoacrylate (superglue) into their slots. You need to be **extremly cautions** of the polarity of the magnets and their lids. If you glue them the wrong way, the lid will be pushed away by the container. 
-You can remove magnets by melting the printed part with a hair drier or a hot air gun if you mess up placing the magnets the right side up. You will need to reprint the part though.  
+You can remove magnets by melting the printed part with a hair drier or a hot air gun if you mess up placing the magnets the right side up. You will need to reprint the part though.
+
+You need a total of **48 Magnets**.
 
 I used these magnets from amazon: https://www.amazon.de/gp/product/B07T13H3R5/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
 
